@@ -18,3 +18,9 @@ div{
 #stop{
     background-color: red;
 }
+
+.bigText{
+
+    font-size: 30px;
+    background-color: beige;
+}
