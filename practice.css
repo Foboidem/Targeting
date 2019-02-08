@@ -1,7 +1,10 @@
-h1{
+.head{
   font-family: 'Lobster', cursive;
   color: Lavender;
-  text-shadow: 2px 3px 4px black;
+  text-shadow: 2px 3px 4px black;  
+  text-decoration: underline; 
+  background-color: SteelBlue;
+  
 }
 
 p{
@@ -10,13 +13,6 @@ p{
   text-align: justify;
    background-color: SteelBlue;
    text-shadow: 2px 3px 4px whitesmoke;
-}
-
-header{
-  color: Lavender;
-  font-family: 'Pacifico', cursive;
-  text-decoration: underline; 
-  background-color: SteelBlue;
 }
 
 section{
