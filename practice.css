@@ -1,0 +1,36 @@
+h1{
+  font-family: 'Lobster', cursive;
+  color: Lavender;
+  text-shadow: 2px 3px 4px black;
+}
+
+p{
+ font-family: 'Quattrocento Sans', sans-serif;
+  color: Lavender;
+  text-align: justify;
+   background-color: SteelBlue;
+   text-shadow: 2px 3px 4px whitesmoke;
+}
+
+header{
+  color: Lavender;
+  font-family: 'Pacifico', cursive;
+  text-decoration: underline; 
+  background-color: SteelBlue;
+}
+
+section{
+    color: Lavender;
+    background-color: black;
+}
+
+article{
+  color: Lavender;
+  background-color: SteelBlue;
+  text-align: justify;
+
+}
+
+body{
+  background: linear-gradient(#0F2027,#203A43,#2c3e50);
+}
